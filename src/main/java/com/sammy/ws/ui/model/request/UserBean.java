@@ -1,5 +1,8 @@
 package com.sammy.ws.ui.model.request;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class UserBean {
 	
 	private String firstName;
